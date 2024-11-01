@@ -1,1 +1,2 @@
 my name is manu.
+another bug is fixed
